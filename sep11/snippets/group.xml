@@ -1,0 +1,30 @@
+<ssh-config>
+    <group name="group1">
+        <ssh host="129.12.12.13" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+        <ssh host="localhost" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+    </group>
+    <group name="group2">
+        <ssh host="127.0.0.1" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+        <ssh host="localhost" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+        <ssh host="localhost" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+        <ssh host="localhost" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+    </group>
+</ssh-config>

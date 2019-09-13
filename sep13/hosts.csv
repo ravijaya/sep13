@@ -1,0 +1,5 @@
+localhost,22,training,training,date
+localhost,22,training,training,cal
+localhost,22,training,training,uname -a
+localhost,22,training,training,free -m
+localhost,22,training,training,df -h

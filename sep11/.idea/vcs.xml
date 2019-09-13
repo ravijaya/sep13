@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/flask-jwt-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flask-jwt-extended" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flask-to-do" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microblog" vcs="Git" />
+  </component>
+</project>

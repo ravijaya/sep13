@@ -1,0 +1,56 @@
+#root:x:0:0:root:/root:/bin/bash
+#bin:x:1:1:bin:/bin:/sbin/nologin
+#daemon:x:2:2:daemon:/sbin:/sbin/nologin
+#adm,x,3,4,adm,/var/adm,/sbin/nologin
+#lp,x,4,7,lp,/var/spool/lpd,/sbin/nologin
+#sync,x,5,0,sync,/sbin,/bin/sync
+#shutdown,x,6,0,shutdown,/sbin,/sbin/shutdown
+#halt,x,7,0,halt,/sbin,/sbin/halt
+#mail,x,8,12,mail,/var/spool/mail,/sbin/nologin
+#perator,x,11,0,operator,/root,/sbin/nologin
+systemd-coredump:x:999:997:systemd Core Dumper:/:/sbin/nologin
+systemd-network:x:192:192:systemd Network Management:/:/sbin/nologin
+systemd-resolve:x:193:193:systemd Resolver:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+systemd-timesync:x:998:996:systemd Time Synchronization:/:/sbin/nologin
+tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null:/sbin/nologin
+polkitd:x:997:995:User for polkitd:/:/sbin/nologin
+gluster:x:996:993:GlusterFS daemons:/run/gluster:/sbin/nologin
+rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin
+pulse:x:171:171:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+qemu:x:107:107:qemu user:/:/sbin/nologin
+nm-openconnect:x:995:990:NetworkManager user for OpenConnect:/:/sbin/nologin
+usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+chrony:x:994:989::/var/lib/chrony:/sbin/nologin
+geoclue:x:993:988:User for geoclue:/var/lib/geoclue:/sbin/nologin
+avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin
+pipewire:x:992:987:PipeWire System Daemon:/var/run/pipewire:/sbin/nologin
+dnsmasq:x:986:986:Dnsmasq DHCP and DNS server:/var/lib/dnsmasq:/sbin/nologin
+saslauth:x:985:76:Saslauthd user:/run/saslauthd:/sbin/nologin
+radvd:x:75:75:radvd user:/:/sbin/nologin
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+openvpn:x:984:983:OpenVPN:/etc/openvpn:/sbin/nologin
+nm-openvpn:x:983:982:Default user for running openvpn spawned by NetworkManager:/:/sbin/nologin
+unbound:x:982:981:Unbound DNS resolver:/etc/unbound:/sbin/nologin
+abrt:x:173:173::/etc/abrt:/sbin/nologin
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+colord:x:981:979:User for colord:/var/lib/colord:/sbin/nologin
+rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+gnome-initial-setup:x:980:978::/run/gnome-initial-setup/:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+vboxadd:x:979:1::/var/run/vboxadd:/sbin/nologin
+tcpdump:x:72:72::/:/sbin/nologin
+ravijaya:x:1000:1000:Ravi Jaya:/home/ravijaya:/bin/bash
+training:x:1001:1001::/home/training:/bin/bash
+mailnull:x:47:47::/var/spool/mqueue:/sbin/nologin
+smmsp:x:51:51::/var/spool/mqueue:/sbin/nologin
+gns3:x:978:973:gns3 server:/var/lib/gns3:/sbin/nologin
+setroubleshoot:x:977:972::/var/lib/setroubleshoot:/sbin/nologin
+deepin-sound-player:x:976:970:User of com.deepin.api.SoundThemePlayer.service:/var/lib/deepin-sound-player:/sbin/nologin
+deepin-daemon:x:969:969:Deepin Daemon:/:/sbin/nologin
+lightdm:x:968:968::/var/lib/lightdm:/sbin/nologin
+flatpak:x:967:967:User for flatpak system helper:/:/sbin/nologin
+epmd:x:966:966:Erlang Port Mapper Daemon:/dev/null:/sbin/nologin
+rabbitmq:x:965:965:RabbitMQ messaging server:/var/lib/rabbitmq:/sbin/nologin
+firebird:x:964:964::/:/bin/nologin

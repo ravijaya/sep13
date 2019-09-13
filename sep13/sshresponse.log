@@ -1,0 +1,72 @@
+-------------------------Thread-1 ran date @ localhost--------------------------
+Fri 13 Sep 2019 04:40:37 PM IST
+
+------------------------Thread-4 ran free -m @ localhost------------------------
+              total        used        free      shared  buff/cache   available
+Mem:          31929        7835       11483        1279       12610       22378
+Swap:         16383           0       16383
+
+-------------------------Thread-5 ran df -h @ localhost-------------------------
+Filesystem               Size  Used Avail Use% Mounted on
+devtmpfs                  16G     0   16G   0% /dev
+tmpfs                     16G  373M   16G   3% /dev/shm
+tmpfs                     16G  2.1M   16G   1% /run
+tmpfs                     16G     0   16G   0% /sys/fs/cgroup
+/dev/mapper/fedora-root   40G   12G   26G  31% /
+tmpfs                     16G  190M   16G   2% /tmp
+/dev/nvme0n1p2           976M  234M  676M  26% /boot
+/dev/nvme0n1p1           256M   18M  238M   8% /boot/efi
+/dev/mapper/fedora-var    40G  7.5G   30G  20% /var
+/dev/mapper/fedora-home  196G   68G  119G  37% /home
+tmpfs                    3.2G   16M  3.2G   1% /run/user/1000
+tmpfs                    3.2G  4.0K  3.2G   1% /run/user/1001
+
+-----------------------Thread-3 ran uname -a @ localhost------------------------
+Linux localhost.localdomain 5.2.11-200.fc30.x86_64 #1 SMP Thu Aug 29 12:43:20 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+--------------------------Thread-2 ran cal @ localhost--------------------------
+   September 2019   
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7
+ 8  9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30               
+                    
+
+-----------------------Process-3 ran uname -a @ localhost-----------------------
+Linux localhost.localdomain 5.2.11-200.fc30.x86_64 #1 SMP Thu Aug 29 12:43:20 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+-----------------------Process-4 ran free -m @ localhost------------------------
+              total        used        free      shared  buff/cache   available
+Mem:          31929        7890       11431        1274       12607       22327
+Swap:         16383           0       16383
+
+-------------------------Process-1 ran date @ localhost-------------------------
+Fri 13 Sep 2019 04:54:49 PM IST
+
+------------------------Process-5 ran df -h @ localhost-------------------------
+Filesystem               Size  Used Avail Use% Mounted on
+devtmpfs                  16G     0   16G   0% /dev
+tmpfs                     16G  373M   16G   3% /dev/shm
+tmpfs                     16G  2.1M   16G   1% /run
+tmpfs                     16G     0   16G   0% /sys/fs/cgroup
+/dev/mapper/fedora-root   40G   12G   26G  31% /
+tmpfs                     16G  190M   16G   2% /tmp
+/dev/nvme0n1p2           976M  234M  676M  26% /boot
+/dev/nvme0n1p1           256M   18M  238M   8% /boot/efi
+/dev/mapper/fedora-var    40G  7.5G   30G  20% /var
+/dev/mapper/fedora-home  196G   68G  119G  37% /home
+tmpfs                    3.2G   16M  3.2G   1% /run/user/1000
+tmpfs                    3.2G  4.0K  3.2G   1% /run/user/1001
+
+-------------------------Process-2 ran cal @ localhost--------------------------
+   September 2019   
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7
+ 8  9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30               
+                    
+

@@ -1,0 +1,8 @@
+strings (immutable object)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+regular (unicode)
+raw string
+doc string
+formatted string
+bytes

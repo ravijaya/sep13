@@ -1,0 +1,11 @@
+pam:x:1002:1002::/home/pam:/bin/sh
+andy:x:1003:1003::/home/andy:/bin/sh
+eva:x:1004:1004::/home/eva:/bin/sh
+jaya:x:1006:1006::/home/jaya:/bin/sh
+walle:x:1007:1007::/home/walle:/bin/sh
+ftp:x:136:146:ftp daemon,,,:/srv/ftp:/usr/sbin/nologin
+pampam:x:1008:1008::/home/pampam:/bin/sh
+kimberly:x:1009:1009::/home/kimberly:/bin/sh
+brown:x:1010:1010::/home/brown:/bin/sh
+jimmy:x:1011:1011::/home/jimmy:/bin/sh
+allen:x:1012:1012::/home/allen:/bin/sh

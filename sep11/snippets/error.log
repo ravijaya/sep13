@@ -1,0 +1,10 @@
+2019-05-17 16:01:48,911:DEBUG:root:psdemologging.py:16858:debug messages
+2019-05-17 16:01:48,911:INFO:root:psdemologging.py:16858:confirmation notes
+2019-05-17 16:01:48,911:WARNING:root:psdemologging.py:16858:warnings messages
+2019-05-17 16:01:48,911:ERROR:root:psdemologging.py:16858:error informations
+2019-05-17 16:01:48,911:CRITICAL:root:psdemologging.py:16858:panic error
+2019-05-17 16:01:55,948:DEBUG:root:psdemologging.py:16863:debug messages
+2019-05-17 16:01:55,948:INFO:root:psdemologging.py:16863:confirmation notes
+2019-05-17 16:01:55,948:WARNING:root:psdemologging.py:16863:warnings messages
+2019-05-17 16:01:55,948:ERROR:root:psdemologging.py:16863:error informations
+2019-05-17 16:01:55,948:CRITICAL:root:psdemologging.py:16863:panic error

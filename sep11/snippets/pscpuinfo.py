@@ -1,0 +1,20 @@
+import psutil
+from pprint import pprint as pp
+
+print(psutil.cpu_count())
+print()
+print(psutil.cpu_times())
+print()
+pp(psutil.cpu_times(percpu=True))
+print()
+print(psutil.cpu_percent(interval=1))
+print()
+print(psutil.cpu_percent(interval=1, percpu=True))
+print()
+print(psutil.cpu_stats())
+print()
+print(psutil.cpu_freq())
+print()
+pp(psutil.cpu_freq(percpu=True))
+print()
+print(psutil.getloadavg())

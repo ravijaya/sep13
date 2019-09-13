@@ -1,0 +1,42 @@
+{
+  "group1": [
+    {
+      "host": "localhost",
+      "port": 22,
+      "user": "training",
+      "pwd": "training"
+    },
+    {
+      "host": "localhost",
+      "port": 22,
+      "user": "training",
+      "pwd": "training"
+    }
+  ],
+  "group2": [
+    {
+      "host": "localhost",
+      "port": 22,
+      "user": "training",
+      "pwd": "training"
+    },
+    {
+      "host": "localhost",
+      "port": 22,
+      "user": "training",
+      "pwd": "training"
+    },
+    {
+      "host": "localhost",
+      "port": 22,
+      "user": "training",
+      "pwd": "training"
+    },
+    {
+      "host": "localhost",
+      "port": 22,
+      "user": "training",
+      "pwd": "training"
+    }
+  ]
+}

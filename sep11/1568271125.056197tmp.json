@@ -1,0 +1,1048 @@
+{
+  "/tmp": {
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-httpd.service-Q1NiQM": [
+      60,
+      "Thu Sep 12 04:27:41 2019"
+    ],
+    "python-build.20190911035742.11553": [
+      60,
+      "Wed Sep 11 03:57:51 2019"
+    ],
+    "python-build.20190911035742.11553.log": [
+      732463,
+      "Wed Sep 11 03:59:23 2019"
+    ],
+    "hsperfdata_ravijaya": [
+      60,
+      "Thu Sep 12 03:52:30 2019"
+    ],
+    ".com.google.Chrome.lNgIHa": [
+      16729,
+      "Mon Sep  9 08:48:56 2019"
+    ],
+    ".com.google.Chrome.ZWeSBa": [
+      80,
+      "Mon Sep  9 08:48:55 2019"
+    ],
+    "tmpo5rouzje": [
+      12277,
+      "Sun Sep  8 22:07:01 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-bolt.service-YXjatB": [
+      60,
+      "Sun Sep  8 19:04:20 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-fwupd.service-WdKcKE": [
+      60,
+      "Sun Sep  8 19:04:20 2019"
+    ],
+    "tracker-extract-files.1000": [
+      40,
+      "Thu Sep 12 03:34:10 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-geoclue.service-Ixscxz": [
+      60,
+      "Sun Sep  8 19:04:16 2019"
+    ],
+    ".X0-lock": [
+      11,
+      "Sun Sep  8 19:04:16 2019"
+    ],
+    ".esd-1000": [
+      60,
+      "Sun Sep  8 19:04:15 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-colord.service-UD2VDQ": [
+      60,
+      "Sun Sep  8 18:58:14 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-upower.service-ESXELW": [
+      60,
+      "Sun Sep  8 18:58:13 2019"
+    ],
+    ".X1024-lock": [
+      11,
+      "Sun Sep  8 18:58:12 2019"
+    ],
+    "vmware-root": [
+      80,
+      "Sun Sep  8 18:58:08 2019"
+    ],
+    "VMwareDnD": [
+      40,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-chronyd.service-jeGhAE": [
+      60,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-rtkit-daemon.service-07dhvR": [
+      60,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-bluetooth.service-fmVRI4": [
+      60,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-ModemManager.service-iXjEZh": [
+      60,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    "systemd-private-9c515ef2be264c81b738d27e3dd91cce-dbus-broker.service-nWHgpv": [
+      60,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    ".Test-unix": [
+      40,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    ".font-unix": [
+      40,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    ".XIM-unix": [
+      40,
+      "Sun Sep  8 18:58:07 2019"
+    ],
+    ".ICE-unix": [
+      60,
+      "Sun Sep  8 19:04:25 2019"
+    ],
+    ".X11-unix": [
+      80,
+      "Sun Sep  8 19:04:16 2019"
+    ]
+  },
+  "/home/ravijaya": {
+    ".ansible": [
+      4096,
+      "Tue Jun 11 09:54:18 2019"
+    ],
+    ".mozilla": [
+      4096,
+      "Tue May 28 09:47:11 2019"
+    ],
+    ".pythonhist": [
+      93,
+      "Wed Sep 11 10:38:16 2019"
+    ],
+    ".ipython": [
+      4096,
+      "Fri May 31 05:23:50 2019"
+    ],
+    ".dde_env": [
+      64,
+      "Thu Jun 27 19:47:44 2019"
+    ],
+    "Downloads": [
+      12288,
+      "Wed Sep 11 17:16:45 2019"
+    ],
+    ".local": [
+      4096,
+      "Wed Sep 11 05:08:42 2019"
+    ],
+    "Videos": [
+      4096,
+      "Tue May 28 09:46:14 2019"
+    ],
+    ".esd_auth": [
+      16,
+      "Tue May 28 09:46:12 2019"
+    ],
+    "TNSTC_.pdf": [
+      98135,
+      "Fri Jul 26 14:31:05 2019"
+    ],
+    "tasks_db": [
+      4096,
+      "Fri Sep  6 05:13:50 2019"
+    ],
+    "gst-july.zip": [
+      374455,
+      "Sat Aug 17 11:10:50 2019"
+    ],
+    ".pki": [
+      4096,
+      "Tue May 28 09:56:30 2019"
+    ],
+    "vpcs.sh": [
+      140,
+      "Wed Jul 24 21:10:12 2019"
+    ],
+    "Templates": [
+      4096,
+      "Tue May 28 09:46:14 2019"
+    ],
+    "demostr1.tcl": [
+      166,
+      "Thu Aug  8 12:00:27 2019"
+    ],
+    "Documents": [
+      4096,
+      "Wed Sep 11 04:09:30 2019"
+    ],
+    ".icons": [
+      4096,
+      "Thu Jun 27 19:46:39 2019"
+    ],
+    "VirtualBox VMs": [
+      4096,
+      "Mon Aug 26 09:33:58 2019"
+    ],
+    "iousupport.sh": [
+      274,
+      "Wed Jul 24 21:35:38 2019"
+    ],
+    ".ssh": [
+      4096,
+      "Fri May 31 13:28:45 2019"
+    ],
+    ".python_history-09897.tmp": [
+      0,
+      "Tue Jul 30 18:30:10 2019"
+    ],
+    "Containers": [
+      4096,
+      "Sat Jun 22 17:58:12 2019"
+    ],
+    "RootCap": [
+      4096,
+      "Mon Jul 22 22:17:16 2019"
+    ],
+    "bin": [
+      4096,
+      "Sat Aug  3 09:33:39 2019"
+    ],
+    ".pytest_cache": [
+      4096,
+      "Thu Sep  5 15:54:55 2019"
+    ],
+    "Public": [
+      4096,
+      "Tue May 28 09:46:14 2019"
+    ],
+    "iouyap": [
+      4096,
+      "Wed Jul 24 21:35:53 2019"
+    ],
+    ".astropy": [
+      4096,
+      "Fri May 31 16:41:10 2019"
+    ],
+    ".bash_logout": [
+      18,
+      "Sat Feb 16 15:31:47 2019"
+    ],
+    ".gtkrc-2.0": [
+      52,
+      "Thu Jun 27 19:46:39 2019"
+    ],
+    "Untitled2.ipynb": [
+      772,
+      "Mon Jul 15 10:59:21 2019"
+    ],
+    ".imwheelrc": [
+      345,
+      "Thu Jun 27 19:46:40 2019"
+    ],
+    "Contents": [
+      4096,
+      "Mon Jul 15 08:45:59 2019"
+    ],
+    ".bash_profile": [
+      257,
+      "Tue Jul  2 13:57:16 2019"
+    ],
+    "pycharm-community-2019.1.2": [
+      4096,
+      "Tue Aug 20 11:10:08 2019"
+    ],
+    "Learnings": [
+      4096,
+      "Wed Sep 11 17:17:29 2019"
+    ],
+    "ec2keys": [
+      4096,
+      "Sat Aug  3 06:53:33 2019"
+    ],
+    ".java": [
+      4096,
+      "Tue May 28 22:36:13 2019"
+    ],
+    "Trainings": [
+      4096,
+      "Wed Sep 11 10:44:31 2019"
+    ],
+    ".vmware": [
+      4096,
+      "Wed Jul 24 12:57:36 2019"
+    ],
+    ".config": [
+      4096,
+      "Wed Sep 11 03:31:47 2019"
+    ],
+    ".themes": [
+      4096,
+      "Thu Jun 27 19:46:39 2019"
+    ],
+    ".jupyter": [
+      4096,
+      "Wed Sep 11 05:09:48 2019"
+    ],
+    ".thunderbird": [
+      4096,
+      "Fri Aug  2 05:46:17 2019"
+    ],
+    ".PyCharmCE2019.1": [
+      4096,
+      "Tue May 28 22:36:04 2019"
+    ],
+    "datatypes": [
+      287,
+      "Thu Jun 13 14:08:21 2019"
+    ],
+    "Untitled.ipynb": [
+      1239,
+      "Thu Jul  4 09:21:02 2019"
+    ],
+    ".lesshst": [
+      275,
+      "Tue Sep 10 12:52:19 2019"
+    ],
+    "perl5": [
+      4096,
+      "Tue Aug 27 16:38:23 2019"
+    ],
+    "GNS3": [
+      4096,
+      "Wed Jul 24 21:38:11 2019"
+    ],
+    ".python_history": [
+      8294,
+      "Wed Sep 11 17:17:05 2019"
+    ],
+    "passwd": [
+      3282,
+      "Tue Aug  6 09:52:17 2019"
+    ],
+    ".sqlite_history": [
+      405,
+      "Tue Sep 10 12:25:12 2019"
+    ],
+    ".bashrc": [
+      1275,
+      "Tue Aug 27 16:38:26 2019"
+    ],
+    "Desktop": [
+      4096,
+      "Tue May 28 09:46:14 2019"
+    ],
+    "seaborn-data": [
+      4096,
+      "Fri May 31 15:27:46 2019"
+    ],
+    "anaconda3": [
+      4096,
+      "Tue May 28 21:35:29 2019"
+    ],
+    "Music": [
+      4096,
+      "Tue May 28 09:46:14 2019"
+    ],
+    "iniparser": [
+      4096,
+      "Wed Jul 24 21:35:46 2019"
+    ],
+    ".ICEauthority": [
+      10234,
+      "Sun Sep  8 19:04:15 2019"
+    ],
+    "vpcs": [
+      1080312,
+      "Sun Nov  1 13:57:18 2015"
+    ],
+    ".bash_history": [
+      21436,
+      "Wed Sep 11 17:17:05 2019"
+    ],
+    ".pylint.d": [
+      4096,
+      "Wed Aug  7 12:32:49 2019"
+    ],
+    ".condarc": [
+      26,
+      "Tue May 28 22:34:41 2019"
+    ],
+    ".aws": [
+      4096,
+      "Sat Aug  3 11:30:10 2019"
+    ],
+    ".cache": [
+      4096,
+      "Wed Sep 11 10:51:30 2019"
+    ],
+    ".vimrc": [
+      12,
+      "Fri Jul 19 09:23:09 2019"
+    ],
+    ".wget-hsts": [
+      220,
+      "Wed Jul 24 21:10:55 2019"
+    ],
+    ".ipynb_checkpoints": [
+      4096,
+      "Mon Jul 15 10:57:19 2019"
+    ],
+    "Pictures": [
+      4096,
+      "Thu Sep 12 03:34:10 2019"
+    ],
+    "Untitled1.ipynb": [
+      2782,
+      "Mon Jul 15 10:58:10 2019"
+    ]
+  },
+  "/home/ravijaya/Downloads": {
+    "netmiko-develop.zip": [
+      999607,
+      "Tue Jul 23 20:46:13 2019"
+    ],
+    "Goibibo_MAA_DEL_BLR_26_30_AUG_2019.pdf": [
+      84704,
+      "Wed Aug 28 20:18:43 2019"
+    ],
+    "GNS3.VM.VMware.Workstation.2.1.16.zip": [
+      338826237,
+      "Sun Jul 21 20:04:30 2019"
+    ],
+    "Windows 10 Pro v.1511 En-us x64 July2016 Pre-Activated-=TEAM OS=-": [
+      4096,
+      "Wed May 29 15:55:52 2019"
+    ],
+    "PaymentReceipt_24354938.pdf": [
+      90475,
+      "Sat Jun 22 19:21:03 2019"
+    ],
+    "Advanced-Python-2-days.docx": [
+      17231,
+      "Tue Sep 10 05:43:48 2019"
+    ],
+    "2828100012328403000.pdf": [
+      317051,
+      "Mon Jun  3 14:00:09 2019"
+    ],
+    "core-linux-6.4-internet-0.1.img": [
+      16711680,
+      "Wed Jul 24 09:06:02 2019"
+    ],
+    "CRN3344910950.pdf": [
+      97918,
+      "Wed Jul 31 08:33:39 2019"
+    ],
+    "VirtualBox-6.0-6.0.8_130520_fedora29-1.x86_64.rpm": [
+      121376084,
+      "Tue May 28 10:55:15 2019"
+    ],
+    "CRN3339991501.pdf": [
+      107623,
+      "Wed Jul 31 08:32:52 2019"
+    ],
+    "titanium-final.7.3.0.D1.1.qcow2": [
+      214368256,
+      "Wed Jul 24 08:47:19 2019"
+    ],
+    "AGUPT6031A-2019.pdf": [
+      121963,
+      "Mon Jul 22 21:59:15 2019"
+    ],
+    "T5TC2R29C13.pdf": [
+      144733,
+      "Tue Jul 16 19:21:02 2019"
+    ],
+    "goland-2019.2.tar.gz": [
+      359568580,
+      "Fri Aug  9 16:34:59 2019"
+    ],
+    "introtodevops-120823141458-phpapp01.pdf": [
+      735925,
+      "Wed Sep 11 03:27:30 2019"
+    ],
+    "9781788837484_Code.zip": [
+      269141,
+      "Fri Jun 21 05:28:48 2019"
+    ],
+    "2828100012328402000 (1).pdf": [
+      295026,
+      "Mon Jul 22 21:24:36 2019"
+    ],
+    "credentials (1).csv": [
+      196,
+      "Sat Aug  3 11:20:54 2019"
+    ],
+    "django-5-days-content.doc": [
+      23552,
+      "Fri Jul 26 16:28:06 2019"
+    ],
+    "Python Advacned Post Assessment.docx": [
+      6500,
+      "Tue Jun 18 13:36:00 2019"
+    ],
+    "download": [
+      0,
+      "Fri Aug  2 08:54:53 2019"
+    ],
+    "21236751_1563812398240.xls": [
+      55296,
+      "Mon Jul 22 21:49:58 2019"
+    ],
+    "demo-netmiko.zip": [
+      4234,
+      "Tue Jul 23 20:38:43 2019"
+    ],
+    "jeep-compass-trailhawk-brochure.pdf": [
+      4042008,
+      "Tue Jul 23 23:23:34 2019"
+    ],
+    "9781788998512-HANDSON_ENTERPRISE_AUTOMATION_WITH_PYTHON.pdf": [
+      23921577,
+      "Fri Aug  2 06:01:51 2019"
+    ],
+    "policy-invoice-and-gst-certificate.zip": [
+      107682,
+      "Wed Jun 19 06:32:41 2019"
+    ],
+    "JSON_Tutorial.pdf": [
+      1201354,
+      "Thu Jun 27 12:50:48 2019"
+    ],
+    "cisco-iosv (2).gns3a": [
+      2806,
+      "Wed Jul 24 08:50:05 2019"
+    ],
+    "Meru59146798 (1).pdf": [
+      118051,
+      "Wed Jul 31 20:25:44 2019"
+    ],
+    "tcl.ppt": [
+      43008,
+      "Wed Aug  7 20:38:27 2019"
+    ],
+    "New Doc 2019-08-17 10.20.21.pdf": [
+      695269,
+      "Sat Aug 17 11:06:35 2019"
+    ],
+    "P_DAB833_607079202.pdf": [
+      516968,
+      "Mon Jul 22 21:28:13 2019"
+    ],
+    "Python-NetWork-Automation.docx": [
+      7025,
+      "Tue Jul 23 09:06:40 2019"
+    ],
+    "P_833_607079202.pdf": [
+      724114,
+      "Mon Jul 22 21:28:11 2019"
+    ],
+    "VMware-Player-15.1.0-13591040.x86_64.bundle": [
+      148480156,
+      "Sun Jul 21 20:32:40 2019"
+    ],
+    "PRC_33AGUPT6031A1ZG (1).pdf": [
+      21365,
+      "Wed Jun 19 05:05:41 2019"
+    ],
+    "HTTP-Client-1.57.tar.gz": [
+      5948,
+      "Tue Aug 27 16:41:14 2019"
+    ],
+    "cisco-iosv.gns3a": [
+      2806,
+      "Mon Jul 22 10:02:40 2019"
+    ],
+    "jdk-11.0.3": [
+      4096,
+      "Tue Jul  2 13:56:09 2019"
+    ],
+    "24886.pdf": [
+      132767,
+      "Fri Aug 23 12:59:04 2019"
+    ],
+    "ubuntu-gui.gns3a": [
+      3142,
+      "Mon Jul 22 10:04:51 2019"
+    ],
+    "debian-10.0.0-amd64-DVD-1.iso.torrent": [
+      73824,
+      "Sun Aug 25 12:24:08 2019"
+    ],
+    "kali-linux-2019.2-amd64.iso.torrent": [
+      256409,
+      "Tue May 28 10:41:42 2019"
+    ],
+    "drive-download-20190722T050633Z-001.zip": [
+      75057300,
+      "Mon Jul 22 10:37:13 2019"
+    ],
+    "slide-py-sys-devops-final-v1.pdf": [
+      1441640,
+      "Tue Sep 10 20:05:52 2019"
+    ],
+    "Limited-Plus-Brochure-for-Web.pdf": [
+      4647226,
+      "Wed Jul 24 06:07:30 2019"
+    ],
+    "peewee-master.zip": [
+      886446,
+      "Fri May 31 03:54:09 2019"
+    ],
+    "OReilly.Python.for.Unix.and.Linux.System.Administration.Sep.2008.pdf": [
+      3585227,
+      "Fri Aug  2 06:05:28 2019"
+    ],
+    "CRN3339551408.pdf": [
+      101690,
+      "Wed Jul 31 08:33:08 2019"
+    ],
+    "Ravi_BLR_PNQ_07_10_JUL_2019.pdf": [
+      115240,
+      "Sat Jul  6 15:28:38 2019"
+    ],
+    "CRN3346244208.pdf": [
+      95518,
+      "Wed Jul 31 08:33:47 2019"
+    ],
+    "Python-Basics-content-3-days.docx": [
+      7577,
+      "Tue Jun 18 11:11:54 2019"
+    ],
+    "092917_0812_DevOpsTrain2.png": [
+      22111,
+      "Wed Sep 11 03:39:18 2019"
+    ],
+    "debian-10.0.0-amd64-DVD-1.iso": [
+      3841982464,
+      "Sun Aug 25 12:34:04 2019"
+    ],
+    "Meru59146798.pdf": [
+      118048,
+      "Wed Jul 31 20:25:16 2019"
+    ],
+    "ae1449b116ece85dc10d-4b0f492be8bbbcfebfbbc9399b33d3cc0b8503f9.zip": [
+      3638,
+      "Tue Sep 10 20:55:08 2019"
+    ],
+    "CDS- Python - Amadeus -2 Days.docx": [
+      124401,
+      "Mon Sep  9 08:50:24 2019"
+    ],
+    "9781789347562_Code.zip": [
+      290700,
+      "Thu Sep  5 21:04:27 2019"
+    ],
+    "regex.pdf": [
+      136876,
+      "Mon Jun 17 16:25:37 2019"
+    ],
+    "Python-Books-master.zip": [
+      677188521,
+      "Mon Jul 22 21:32:58 2019"
+    ],
+    ".pytest_cache": [
+      4096,
+      "Thu Sep  5 15:57:23 2019"
+    ],
+    "Linux Fundamentals.docx": [
+      15311,
+      "Mon Jul 15 13:34:00 2019"
+    ],
+    "empty30G.qcow2": [
+      197120,
+      "Wed Jul 24 09:02:40 2019"
+    ],
+    "jdk-12.0.1_linux-x64_bin (1).rpm": [
+      170440632,
+      "Tue Jul  2 11:36:28 2019"
+    ],
+    "devops_content.pdf": [
+      155652,
+      "Tue Jul 23 15:59:50 2019"
+    ],
+    "CDS-Rest Json-Amadeus.docx": [
+      126364,
+      "Tue Jul  2 09:15:07 2019"
+    ],
+    "kali-linux-2019-2-vbox-amd64-ova": [
+      4096,
+      "Tue May 28 11:02:34 2019"
+    ],
+    "Devps-Python-5-days.doc": [
+      26624,
+      "Mon Jul 22 19:20:19 2019"
+    ],
+    "bopytest-code": [
+      4096,
+      "Fri Sep  6 04:27:20 2019"
+    ],
+    "J_ravi_profile.doc": [
+      70144,
+      "Fri Jul 12 14:28:13 2019"
+    ],
+    "P_20190610_204400.jpg": [
+      3118397,
+      "Mon Jun 10 20:49:25 2019"
+    ],
+    "invoice_1.pdf": [
+      13634,
+      "Sat Jun 22 17:29:09 2019"
+    ],
+    "Cognixia Course - Python 3.6.pdf": [
+      618791,
+      "Fri Jun 14 20:05:45 2019"
+    ],
+    "cisco-iosv (1).gns3a": [
+      2806,
+      "Tue Jul 23 17:13:58 2019"
+    ],
+    "vios-adventerprisek9-m.vmdk.SPA.156-2.T": [
+      128450560,
+      "Wed Jul 24 08:50:12 2019"
+    ],
+    "CRN3346317245.pdf": [
+      109002,
+      "Wed Jul 31 20:24:45 2019"
+    ],
+    "introtodevops.pdf": [
+      210942,
+      "Wed Sep 11 03:32:45 2019"
+    ],
+    "Scan_20180605_170959.pdf": [
+      697427,
+      "Mon Jun 10 20:50:45 2019"
+    ],
+    "List of Authorised Visa Agents as at 26 March 2019.pdf": [
+      416398,
+      "Sun Aug 18 20:25:15 2019"
+    ],
+    "TTD Online Seva Booking Document": [
+      81662,
+      "Fri Aug 23 08:55:55 2019"
+    ],
+    "bopytest-code.tgz": [
+      39583,
+      "Fri Sep  6 04:27:16 2019"
+    ],
+    "demo-netmiko (1).zip": [
+      4234,
+      "Tue Jul 23 20:39:53 2019"
+    ],
+    "aruba-vmc (1).gns3a": [
+      1813,
+      "Wed Jul 24 17:18:57 2019"
+    ],
+    "MeruK49119029.pdf": [
+      115678,
+      "Wed Jul 31 20:26:03 2019"
+    ],
+    "Debit-note-000281-07_22_2019.pdf": [
+      60013,
+      "Tue Jul 30 18:33:01 2019"
+    ],
+    "JR3T-14G381-AM-PKS.zip": [
+      2342340684,
+      "Sun Jun  9 21:24:09 2019"
+    ],
+    ".~lock.Devps-Python-5-days.doc#": [
+      93,
+      "Mon Jul 22 19:20:19 2019"
+    ],
+    "TclDesignPatterns.ppt": [
+      141824,
+      "Wed Aug  7 20:38:38 2019"
+    ],
+    "netmiko-develop (1).zip": [
+      999607,
+      "Tue Jul 23 20:45:14 2019"
+    ],
+    "credentials.csv": [
+      192,
+      "Sat Aug  3 06:16:19 2019"
+    ],
+    "Introductory slide.pptx": [
+      3903025,
+      "Fri Jun 14 20:27:19 2019"
+    ],
+    "Tcl Programming Fundamentals.docx": [
+      17231,
+      "Tue Jul 16 19:02:32 2019"
+    ],
+    "json-20180813.jar": [
+      64597,
+      "Tue Jul  2 10:25:52 2019"
+    ],
+    "json-simple-1.1.1.jar": [
+      23737,
+      "Tue Jul  2 14:01:01 2019"
+    ],
+    "kali-linux-2019.2-vbox-amd64.ova.torrent": [
+      306431,
+      "Tue May 28 10:49:09 2019"
+    ],
+    "june-22-master.zip": [
+      6603740,
+      "Thu May 30 20:51:02 2019"
+    ],
+    "debian-10.0.0-amd64-DVD-2.iso.torrent": [
+      89984,
+      "Sun Aug 25 12:24:10 2019"
+    ],
+    "Cognixia Trainer Kit.rar": [
+      2426882,
+      "Fri Jun 14 20:05:43 2019"
+    ],
+    "june-22-master": [
+      4096,
+      "Fri Jun 22 21:47:11 2018"
+    ],
+    "Python Advacned Post Assessment Key.docx": [
+      4297,
+      "Tue Jun 18 13:35:23 2019"
+    ],
+    "CRN3343119780.pdf": [
+      99723,
+      "Wed Jul 31 08:33:28 2019"
+    ],
+    "metro-bill.pdf": [
+      232491,
+      "Sat Aug 17 11:06:26 2019"
+    ],
+    "devops-in-python-master.zip": [
+      94223,
+      "Fri Jul 26 16:45:50 2019"
+    ],
+    "python-rest-api-python-rest-api.zip": [
+      7739,
+      "Wed Sep 11 17:16:42 2019"
+    ],
+    "Oracle_VM_VirtualBox_Extension_Pack-6.0.8 (1).vbox-extpack": [
+      23309069,
+      "Tue May 28 21:13:59 2019"
+    ],
+    "OOP using Python.docx": [
+      8716,
+      "Wed Jun 19 19:48:56 2019"
+    ],
+    "Shell-0.73.tar.gz": [
+      6186,
+      "Wed Aug 28 15:35:30 2019"
+    ],
+    "goland-2019.1.3.tar.gz": [
+      312837589,
+      "Fri Jul 12 14:18:54 2019"
+    ],
+    "P_20190618_215515.jpg": [
+      3139781,
+      "Wed Jun 19 05:00:09 2019"
+    ],
+    "IOSv_startup_config.img": [
+      1048576,
+      "Wed Jul 24 08:49:47 2019"
+    ],
+    "aruba-vmc.gns3a": [
+      1813,
+      "Mon Jul 22 10:02:28 2019"
+    ],
+    "TclTk(chenwei).ppt": [
+      214528,
+      "Wed Aug  7 20:38:44 2019"
+    ],
+    "SP_Python_CDS.pdf": [
+      387799,
+      "Mon Jul 15 08:45:32 2019"
+    ],
+    "debian-10.0.0-amd64-DVD-2.iso": [
+      4688773120,
+      "Sun Aug 25 12:45:21 2019"
+    ],
+    "juniper-vsrx.gns3a": [
+      9159,
+      "Mon Jul 22 10:02:49 2019"
+    ],
+    "chromedriver_linux64.zip": [
+      5231221,
+      "Fri Sep  6 15:42:33 2019"
+    ],
+    "introtodevops.odg": [
+      474086,
+      "Wed Sep 11 03:32:38 2019"
+    ],
+    "Anaconda3-2019.03-Linux-x86_64.sh": [
+      685906562,
+      "Fri Apr  5 02:56:37 2019"
+    ],
+    "pytest-140304030049-phpapp02 (1).pdf": [
+      1471294,
+      "Thu Sep  5 18:24:15 2019"
+    ],
+    "debian-10.0.0-amd64-DVD-3.iso.torrent": [
+      89984,
+      "Sun Aug 25 12:24:11 2019"
+    ],
+    "teamviewer_14.2.8352.x86_64.rpm": [
+      13445048,
+      "Mon Jun  3 18:36:18 2019"
+    ],
+    "pycharm-community-2019.1.2.tar.gz": [
+      333983594,
+      "Tue May 28 09:58:50 2019"
+    ],
+    "SG2-TCP-465.ovpn": [
+      10138,
+      "Wed Jun 19 11:29:56 2019"
+    ],
+    "CDS -Python QA - Amadeus - 1 Day.docx": [
+      122661,
+      "Thu Sep  5 15:49:16 2019"
+    ],
+    "cisco-nxosv.gns3a": [
+      1848,
+      "Wed Jul 24 08:08:47 2019"
+    ],
+    "VirtualBox-6.0-6.0.10_132072_fedora29-1.x86_64.rpm": [
+      115333484,
+      "Sun Jul 21 20:05:31 2019"
+    ],
+    "SP_DevOps Python_3Days_CDS_Intuit (1).pdf": [
+      468142,
+      "Tue Sep 10 05:56:22 2019"
+    ],
+    "Tcl.ppt": [
+      76800,
+      "Wed Aug  7 20:38:24 2019"
+    ],
+    "cisco-nxosv9k.gns3a": [
+      8570,
+      "Mon Jul 22 10:02:57 2019"
+    ],
+    "Tcl Programming Fundamentals (1).docx": [
+      17231,
+      "Mon Aug 26 08:08:44 2019"
+    ],
+    "python-rest-api-python-rest-api (1).zip": [
+      7739,
+      "Wed Sep 11 17:16:44 2019"
+    ],
+    "jdk-11.0.3_linux-x64_bin.tar.gz": [
+      179693909,
+      "Tue Jul  2 13:53:25 2019"
+    ],
+    "cisco-csr1000v.gns3a": [
+      7947,
+      "Mon Jul 22 10:02:35 2019"
+    ],
+    "debian-10.0.0-amd64-DVD-3.iso": [
+      4688506880,
+      "Sun Aug 25 13:02:44 2019"
+    ],
+    "9781787122529_Code.zip": [
+      95485,
+      "Fri Sep  6 03:59:55 2019"
+    ],
+    "Oracle_VM_VirtualBox_Extension_Pack-6.0.8.vbox-extpack": [
+      23309069,
+      "Tue May 28 21:13:52 2019"
+    ],
+    "jdk-12.0.1_linux-x64_bin.rpm": [
+      170440632,
+      "Tue Jul  2 11:36:20 2019"
+    ],
+    "P_20190610_204418.jpg": [
+      3053926,
+      "Mon Jun 10 20:49:27 2019"
+    ],
+    "celery-demo-master.zip": [
+      1887,
+      "Wed Jul 31 20:24:33 2019"
+    ],
+    "Building-Web-Applications-with-Flask.pdf": [
+      1680291,
+      "Tue Aug  6 22:09:54 2019"
+    ],
+    "Network Automation with Ansible.docx": [
+      4739,
+      "Sun Jul 21 21:15:09 2019"
+    ],
+    "kali-linux-2019-2-amd64-iso": [
+      4096,
+      "Tue May 28 10:55:10 2019"
+    ],
+    "cisco-iosxrv.gns3a": [
+      1842,
+      "Mon Jul 22 10:03:01 2019"
+    ],
+    "google-chrome-stable_current_x86_64.rpm": [
+      58374986,
+      "Tue May 28 09:47:46 2019"
+    ],
+    "pytest-140304030049-phpapp02.pdf": [
+      1471294,
+      "Thu Sep  5 18:24:04 2019"
+    ],
+    "cisco-iosxrv (1).gns3a": [
+      1842,
+      "Wed Jul 24 08:10:01 2019"
+    ],
+    "bopytest-code (1)": [
+      4096,
+      "Fri Sep  6 04:27:24 2019"
+    ],
+    "1250x630_ecosport_chrome_exhaust_tip.webp": [
+      36080,
+      "Sun Aug  4 19:34:00 2019"
+    ],
+    "devops-notes.pdf": [
+      5820646,
+      "Tue Jul 23 16:00:41 2019"
+    ],
+    "GB_Google_Go_Training_Syllabus_1565349983.pdf": [
+      1754,
+      "Fri Aug  9 16:56:23 2019"
+    ],
+    "Building scalable app using Python_ ADV_3 days.docx": [
+      21375,
+      "Thu Sep  5 14:57:45 2019"
+    ],
+    "2_nslab_r_tcl.ppt": [
+      153088,
+      "Wed Aug  7 20:38:32 2019"
+    ],
+    "iosxrv-k9-demo-6.1.3.qcow2": [
+      428588544,
+      "Wed Jul 24 08:48:06 2019"
+    ],
+    "Perl Programming Fundamentals.docx": [
+      19000,
+      "Tue Jul 16 19:02:30 2019"
+    ],
+    "Invoice.pdf": [
+      91424,
+      "Wed Jun 19 05:05:04 2019"
+    ],
+    "CDS -Python - Amadeus - 3 Days.docx": [
+      125633,
+      "Sun Jun 16 20:29:25 2019"
+    ],
+    "devops_.pdf": [
+      155652,
+      "Mon Jul 22 19:39:32 2019"
+    ],
+    "rhel2.pem": [
+      1696,
+      "Sat Aug  3 12:00:00 2019"
+    ],
+    "Core Python Programming.docx": [
+      11948,
+      "Thu Jun 13 06:29:35 2019"
+    ]
+  }
+}

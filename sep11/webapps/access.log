@@ -1,0 +1,37 @@
+2019-09-13 11:33:58,713:DEBUG:root:psdemologging.py:20203:debuging messages
+2019-09-13 11:33:58,713:INFO:root:psdemologging.py:20203:confirmation notes
+2019-09-13 11:33:58,713:WARNING:root:psdemologging.py:20203:warning info
+2019-09-13 11:33:58,713:ERROR:root:psdemologging.py:20203:an error info
+2019-09-13 11:33:58,713:CRITICAL:root:psdemologging.py:20203:panic error
+2019-09-13 11:34:07,139:DEBUG:root:psdemologging.py:20216:debuging messages
+2019-09-13 11:34:07,139:INFO:root:psdemologging.py:20216:confirmation notes
+2019-09-13 11:34:07,139:WARNING:root:psdemologging.py:20216:warning info
+2019-09-13 11:34:07,139:ERROR:root:psdemologging.py:20216:an error info
+2019-09-13 11:34:07,140:CRITICAL:root:psdemologging.py:20216:panic error
+2019-09-13 11:35:26,914:DEBUG:root:psdemologging.py:20295::linux:debuging messages
+2019-09-13 11:40:54,779:WARNING:werkzeug:_internal.py:20521: * Debugger is active!
+2019-09-13 11:40:54,779:INFO:werkzeug:_internal.py:20521: * Debugger PIN: 190-961-240
+2019-09-13 11:42:45,933:DEBUG:root:userapis.py:20521:recv : {'name': 'nickson2', 'ugroup': 'nickson2', 'email': 'nickson2@xyz.com'}
+2019-09-13 11:42:45,937:INFO:werkzeug:_internal.py:20521:127.0.0.1 - - [13/Sep/2019 11:42:45] "POST /users HTTP/1.1" 201 -
+2019-09-13 11:45:34,727:DEBUG:root:psdemologging.py:21244:123:debuging messages
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 1
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 2
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 3
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 4
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 5
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 6
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 7
+2019-09-13 11:46:41,792:DEBUG:root:psdemologging.py:21282:messages : 8
+2019-09-13 11:46:41,793:DEBUG:root:psdemologging.py:21282:messages : 9
+2019-09-13 11:52:03,023:INFO:werkzeug:_internal.py:20521: * Detected change in '/home/ravijaya/Trainings/Python-Devops/sep11/webapps/userapis.py', reloading
+2019-09-13 11:52:03,182:WARNING:werkzeug:_internal.py:21485: * Debugger is active!
+2019-09-13 11:52:34,833:WARNING:root:userapis.py:21485:recv : {'name': 'nickson3', 'ugroup': 'nickson3', 'email': 'nickson3@xyz.com'}
+2019-09-13 11:56:26,865:WARNING:werkzeug:_internal.py:21650: * Debugger is active!
+2019-09-13 11:56:26,866:INFO:werkzeug:_internal.py:21650: * Debugger PIN: 190-961-240
+2019-09-13 13:33:46,469:INFO:werkzeug:_internal.py:27687: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 13:33:46,470:INFO:werkzeug:_internal.py:27687: * Restarting with stat
+2019-09-13 13:33:46,578:WARNING:werkzeug:_internal.py:27691: * Debugger is active!
+2019-09-13 13:33:46,579:INFO:werkzeug:_internal.py:27691: * Debugger PIN: 190-961-240
+2019-09-13 14:01:08,196:INFO:werkzeug:_internal.py:27691:127.0.0.1 - - [13/Sep/2019 14:01:08] "GET /users HTTP/1.1" 200 -
+2019-09-13 14:01:16,060:INFO:werkzeug:_internal.py:27691:127.0.0.1 - - [13/Sep/2019 14:01:16] "GET /users HTTP/1.1" 200 -
+2019-09-13 14:01:30,765:INFO:werkzeug:_internal.py:27691:127.0.0.1 - - [13/Sep/2019 14:01:30] "GET /users HTTP/1.1" 200 -

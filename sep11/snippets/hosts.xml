@@ -1,0 +1,8 @@
+<ssh-config>
+    <group name="group1">
+        <ssh host="localhost" port="22">
+            <username>training</username>
+            <password>training</password>
+        </ssh>
+    </group>
+</ssh-config>
