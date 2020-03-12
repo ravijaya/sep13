@@ -8,7 +8,7 @@ jdcal==1.4.1
 kombu==4.6.3
 lml==0.0.9
 openpyxl==2.5.14
-psutil==5.6.3
+psutil==5.6.6
 pyexcel==0.5.15
 pyexcel-io==0.5.20
 pyexcel-xlsx==0.5.7
