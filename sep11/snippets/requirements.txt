@@ -3,7 +3,7 @@ Babel==2.7.0
 billiard==3.6.0.0
 celery==4.3.0
 et-xmlfile==1.0.1
-flower==0.9.3
+flower==1.2.0
 jdcal==1.4.1
 kombu==4.6.3
 lml==0.0.9
